@@ -38,7 +38,7 @@
   build_release.bat
   ```
   **NB** This script will download and install all relevant dependencies relative to the release version and compile OrcaSlicer.
-  - You can then open the `XX.sln` file via `Visual studio 2019` in the `build` folder.
+  - You can then open the `OrcaSlicer.sln` file via `Visual studio 2019` in the `build` folder.
 
   *If you want to build the debug version, you need to :*
 
@@ -47,7 +47,7 @@
   build_release.bat debug
   ```
   **NB** This script will download and install all relevant dependencies relative to the debug version and compile OrcaSlicer.
-  - You can then open the `XX.sln` file via `Visual studio 2019` in the `build-dbg` folder.
+  - You can then open the `OrcaSlicer.sln` file via `Visual studio 2019` in the `build-dbg` folder.
 
 ### CASE 2 : you are using Visual studio 2022
 
@@ -77,7 +77,7 @@
   build_release_vs2022.bat
   ```
   **NB** This script will download and install all relevant dependencies relative to the release version and compile OrcaSlicer.
-  - You can then open the `XX.sln` file via `Visual studio 2022` in the `build` folder.
+  - You can then open the `OrcaSlicer.sln` file via `Visual studio 2022` in the `build` folder.
 
   *If you want to build the debug version, you need to :*
 
@@ -86,7 +86,7 @@
   build_release_vs2022.bat debug
   ```
   **NB** This script will download and install all relevant dependencies relative to the debug version and compile OrcaSlicer.
-  - You can then open the `XX.sln` file via `Visual studio 2022` in the `build-dbg` folder.
+  - You can then open the `OrcaSlicer.sln` file via `Visual studio 2022` in the `build-dbg` folder.
 
 ## Mac 64-bit  
   - Tools needed: Xcode, Cmake, git, gettext
